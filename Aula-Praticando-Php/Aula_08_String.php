@@ -38,9 +38,9 @@ echo str_replace("a","@",$nome);
 
 echo "<br>";
 
-$pequisaFrase = strpos($frase, "DOS");
+$q = strpos($frase, "CAM");
 
-var_dump($pesquisaFrase);
+var_dump($q);
 
 
 
